@@ -75,6 +75,9 @@ Here are ten of the best tools available for writing clean, efficient, and maint
 
 [CodeAnt AI](https://www.codeant.ai) is a powerful tool that helps developers detect and auto-fix code issues and security vulnerabilities. It integrates seamlessly with IDEs, Pull Requests, and CI/CD pipelines, providing real-time suggestions and automatic fixes for over 5,000 code quality issues. Its features include [line-by-line code reviews](https://github.com/rushout09/code-review-checklist) and compliance checks, making it ideal for teams looking to maintain high coding standards throughout the development lifecycle.
 
+By default, CodeAnt AI enable checks for compliance with standards such as HIPAA, MISRA, etc., so that if a developer miss these requirements in their infrastructure changes, the system will flag the issue and provide accurate fixes.
+
+
 ### ****2. SonarQube****
 
 [SonarQube](https://www.codeant.ai/blogs/best-sonarqube-alternatives) is one of the most popular static code analysis tools. It supports multiple programming languages and can scan your codebase for bugs, vulnerabilities, and code smells. It offers a "quality gate" feature that prevents code from being deployed if it doesn't meet predefined quality thresholds.
